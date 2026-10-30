@@ -1,6 +1,6 @@
 # Denman merged bed ensemble
 
-This repository contains the regional and local bed-elevation results from Lösing et al. (2026), Gravity topography modeling of the Denman Glacier region using a geostatistical approach, published in The Cryosphere (https://doi.org/10.5194/tc-20-5629-2026). It also includes code to merge the two ensembles and produce a combined best-fit bed.
+This repository contains the regional and local bed elevation results from Lösing et al. (2026), Gravity topography modeling of the Denman Glacier region using a geostatistical approach, published in The Cryosphere (https://doi.org/10.5194/tc-20-5629-2026). It also includes code to merge the two ensembles and produce a combined best-fit bed.
 
 The gravity inversion to produce the results is based on the open-source code developed by Field et al. (2026, https://doi.org/10.5194/gmd-19-1749-2026), available on GitHub and archived on Zenodo (https://doi.org/10.5281/zenodo.14719548). 
 
@@ -10,7 +10,7 @@ Gravity and associated GNSS data collected during the Denman Terrestrial Campaig
 
 | Path | Contents |
 | --- | --- |
-| `data/Bedmachine/BedMachineAntarctica-v3.nc` | Reference bed, surface, thickness, masks, and ancillary fields |
+| `data/Bedmachine/BedMachineAntarctica-v3.nc` | Reference bed, surface, thickness, masks, and ancillary fields, needs to be downloaded first |
 | `results/regional/` | 103 regional inversion realizations |
 | `results/local/` | 50 local inversion realizations |
 
