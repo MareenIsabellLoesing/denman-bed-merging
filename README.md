@@ -61,3 +61,8 @@ The final export is **`Results/Merged/blended_beds.nc`**:
 | `lon`, `lat` | Geographic coordinates in degrees |
 
 The best composite stores `selected_regional_index` and `selected_local_index` as attributes.
+
+## Archived release
+
+The code and results are archived on Zenodo:
+https://doi.org/10.5281/zenodo.23811239
